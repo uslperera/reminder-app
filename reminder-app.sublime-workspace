@@ -1,0 +1,258 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"url",
+				"url_file"
+			],
+			[
+				"xml",
+				"xml2js"
+			],
+			[
+				"jqu",
+				"jquery"
+			],
+			[
+				"requir",
+				"requirejs"
+			],
+			[
+				"ts",
+				"test2"
+			],
+			[
+				"test",
+				"test1"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 187.0,
+		"last_filter": "insta",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"bro",
+				"Preferences: Browse Packages"
+			],
+			[
+				"Packa",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/shamal/Documents/Projects/reminder-app"
+	],
+	"file_history":
+	[
+		"/Users/shamal/Documents/Projects/WebWorkersTest/boot.js",
+		"/Users/shamal/Documents/Projects/WebWorkersTest/custom2.js",
+		"/Users/shamal/Documents/Projects/WebWorkersTest/custom1.js",
+		"/Users/shamal/Documents/Projects/WebWorkersTest/index.html",
+		"/Users/shamal/Documents/Projects/WebWorkersTest/server.js",
+		"/Users/shamal/clock/style.css",
+		"/Users/shamal/clock/script.js",
+		"/Users/shamal/clock/index.html",
+		"/Users/shamal/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/shamal/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/shamal/extract-docx/src/myscript.js",
+		"/Users/shamal/Documents/Projects/any2pdf.js/src/test.js",
+		"/Users/shamal/Documents/Projects/any2pdf.js/src/zip.extractor.js",
+		"/Users/shamal/Documents/Projects/any2pdf.js/node_modules/zipjs/zip.js",
+		"/Users/shamal/Downloads/stephen-hardy-DOCX.js-501d1a4/docx.js",
+		"/Users/shamal/Documents/Projects/any2pdf.js/src/zipExtractor.js",
+		"/Users/shamal/Documents/Projects/any2pdf.js/package.json",
+		"/Users/shamal/Documents/Projects/any2pdf.js/src/any2pdf.js",
+		"/Users/shamal/Documents/Projects/any2pdf.js/src/calculator.js",
+		"/Users/shamal/Documents/Projects/any2pdf.js/src/add.js",
+		"/Users/shamal/Documents/Projects/any2pdf.js/src/bundle.js",
+		"/Users/shamal/Documents/Projects/any2pdf.js/src/main.js",
+		"/Users/shamal/Documents/Projects/any2pdf.js/src/foo.js",
+		"/Users/shamal/Documents/Projects/any2pdf.js/var requirejs = require('requirejs');",
+		"/Users/shamal/Documents/Projects/any2pdf.js/bower.json",
+		"/Users/shamal/Documents/Projects/any2pdf.js/.travis.yml",
+		"/Users/shamal/Documents/Projects/any2pdf.js/.gitignore",
+		"/Users/shamal/Documents/Hello Docx.docx/word/document.xml",
+		"/Users/shamal/Documents/Hello Docx.docx/docProps/app.xml",
+		"/Users/shamal/Documents/Hello Docx.docx/docProps/core.xml",
+		"/Users/shamal/Doc2PDF/docx.js",
+		"/Users/shamal/QuickServer/index.html",
+		"/Users/shamal/QuickServer/boot.js",
+		"/Users/shamal/Spotlight/SpotlightAndroidApp/app/src/androidTest/java/ryanpoulier/spotlight2/ApplicationTest.java",
+		"/Users/shamal/Spotlight/SpotlightAndroidApp/app/src/debug/res/values/google_maps_api.xml",
+		"/Applications/StarUML.app/Contents/www/license/node/LicenseManagerDomain.js",
+		"/Users/shamal/LearnJS/Chapter2/js/test.js",
+		"/Users/shamal/LearnJS/Chapter2/dist/test.js",
+		"/Users/shamal/LearnJS/Chapter2/.eslintrc.json",
+		"/Users/shamal/LearnJS/Chapter2/gulpfile.js",
+		"/Users/shamal/LearnJS/Chapter1/index.html",
+		"/Users/shamal/LearnJS/Chapter1/main.css",
+		"/Users/shamal/LearnJS/Chapter1/main.js",
+		"/Volumes/TRANSCEND/IIT/ Concurrent Programming/Coursework2/Coursework2/src/CurrentAccount.java",
+		"/Volumes/TRANSCEND/IIT/ Concurrent Programming/Coursework2/jayalath_cwk2/CurrentAccount.java",
+		"/Volumes/TRANSCEND/IIT/ Concurrent Programming/Coursework2/jayalath_cwk2/University.java",
+		"/Volumes/TRANSCEND/IIT/ Concurrent Programming/Coursework2/jayalath_cwk2/Student.java"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 132.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"=\"\"></",
+			"expor",
+			"fs",
+			"jquery",
+			"docx",
+			"\"></",
+			"]);\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "reminder-app.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
